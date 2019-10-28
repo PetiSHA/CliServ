@@ -1,0 +1,211 @@
+The Treasure of the Sierra Madre;1948;126;66
+Million Dollar Baby;2004;132;116
+No Country for Old Men;2007;122;90
+Star Wars : Episode V - The Empire Strikes Back;1980;190;10
+Singin' in the Rain;1952;103;71
+Kill Bill : Vol. 2;2004;136;176
+Rocky;1976;119;170
+In Bruges;2008;107;160
+Stand by Me;1986;89;131
+The Third Man;1949;93;64
+Schindler's List;1993;190;7
+Gone with the Wind;1939;190;127
+Batman Begins;2005;140;81
+The Good,the Bad and the Ugly;1966;190;5
+Spirited Away;2001;125;53
+Memento;2000;113;29
+Groundhog Day;1993;101;130
+Forrest Gump;1994;142;35
+The Kid;1921;54;155
+The Deer Hunter;1978;182;102
+The Great Escape;1963;172;75
+The Wrestler;2008;109;119
+The Godfather;1972;175;2
+Little Miss Sunshine;2006;101;205
+Casino;1995;178;145
+Grave of the Fireflies;1988;190;138
+The Thing;1982;190;133
+Star Wars : Episode VI - Return of the Jedi;1983;190;77
+The Truman Show;1998;103;191
+Toy Story 3;2010;103;15
+Unforgiven;1992;131;78
+The 400 Blows;1959;92;185
+The Matrix;1999;136;27
+Das Boot;1981;190;65
+To Kill a Mockingbird;1962;129;56
+Star Wars : Episode IV - A New Hope;1977;190;14
+Donnie Darko;2001;190;100
+Jaws;1975;190;80
+On the Waterfront;1954;108;84
+The Killing;1956;85;151
+8 1/2;1963;138;147
+L.A. Confidential;1997;138;63
+Raiders of the Lost Ark;1981;115;22
+The Night of the Hunter;1955;92;150
+There Will Be Blood;2007;158;110
+Alien;1979;190;43
+Infernal Affairs;2002;190;206
+The Best Years of Our Lives;1946;172;158
+Judgment at Nuremberg;1961;186;149
+Ratatouille;2007;111;141
+The Usual Suspects;1995;106;25
+The African Queen;1951;105;184
+WALL-E;2008;98;47
+The Godfather Part II;1974;200;3
+Magnolia;1999;188;175
+Scarface;1983;190;129
+King Kong;1933;190;172
+The Lord of the Rings : The Fellowship of the Ring;2001;190;20
+One Flew Over the Cuckoo's Nest;1975;133;9
+The Exorcist;1973;190;159
+Good Will Hunting;1997;126;162
+Once Upon a Time in the West;1968;190;24
+Slumdog Millionaire;2008;120;83
+Casablanca;1942;102;16
+12 Angry Men;1957;96;8
+The Nightmare Before Christmas;1993;76;203
+Wild Strawberries;1957;91;123
+Crouching Tiger,Hidden Dragon;2000;120;202
+Crash;2004;190;189
+Dog Day Afternoon;1975;190;135
+Amores Perros;2000;190;134
+Big Fish;2003;125;169
+Rear Window;1954;112;21
+The Seventh Seal;1957;96;89
+American History X;1998;119;39
+Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb;1964;95;33
+Indiana Jones and the Last Crusade;1989;127;76
+Shadow of a Doubt;1943;108;180
+Bicycle Thieves;1948;190;79
+Heat;1995;170;93
+Into the Wild;2007;148;114
+Mr. Smith Goes to Washington;1939;129;85
+Downfall;2004;190;74
+City of God;2002;190;19
+Network;1976;121;174
+Trainspotting;1996;94;126
+Spartacus;1960;190;204
+Gandhi;1982;191;139
+2001 : A Space Odyssey;1968;190;69
+The Bourne Ultimatum;2007;115;125
+The Manchurian Candidate;1962;126;111
+The Wages of Fear;1953;190;137
+District 9;2009;112;96
+Eternal Sunshine of the Spotless Mind;2004;108;59
+Pirates of the Caribbean : The Curse of the Black Pearl;2003;143;183
+The Terminator;1984;108;128
+Life of Brian;1979;94;121
+Inglourious Basterds;2009;153;70
+Mystic River;2003;138;177
+Cool Hand Luke;1967;126;98
+Avatar;2009;190;95
+Se7en;1995;127;28
+Rain Man;1988;133;208
+Who's Afraid of Virginia Woolf?;1966;131;196
+Arsenic and Old Lace;1944;118;209
+The Adventures of Robin Hood;1938;102;207
+Barry Lyndon;1975;184;199
+My Neighbor Totoro;1988;86;192
+Pulp Fiction;1994;190;6
+Duck Soup;1933;68;188
+The Lion King;1994;89;113
+Requiem for a Dream;2000;100;60
+Fight Club;1999;139;18
+Sunrise : A Song of Two Humans;1927;106;157
+Platoon;1986;120;108
+Terminator 2 : Judgment Day;1991;190;42
+It Happened One Night;1934;105;120
+Letters from Iwo Jima;2006;141;179
+The Lives of Others;2006;137;57
+Diabolique;1955;116;148
+Psycho;1960;190;23
+The Princess Bride;1987;98;152
+The Graduate;1967;106;132
+Strangers on a Train;1951;92;97
+The Hustler;1961;134;164
+The Shawshank Redemption;1994;142;1
+A Streetcar Named Desire;1951;190;171
+Touch of Evil;1958;190;88
+The Conversation;1974;113;197
+Stalag 17;1953;116;178
+Goodfellas;1990;146;17
+The Big Sleep;1946;190;115
+Let the Right One In;2008;115;173
+Reservoir Dogs;1992;99;62
+Rope;1948;80;182
+Taxi Driver;1976;190;41
+How to Train Your Dragon;2010;98;153
+Planet of the Apes;1968;190;194
+Star Trek;2009;127;143
+Finding Nemo;2003;100;124
+The Departed;2006;151;50
+Blade Runner;1982;117;86
+Aliens;1986;190;54
+Brief Encounter;1945;86;181
+Chinatown;1974;130;61
+Modern Times;1936;87;68
+Ran;1985;162;112
+Life Is Beautiful;1997;190;67
+Howl's Moving Castle;2004;119;210
+The Wild Bunch;1969;190;154
+Double Indemnity;1944;190;58
+Annie Hall;1977;93;107
+The Lord of the Rings : The Return of the King;2003;190;12
+The Wizard of Oz;1939;101;94
+Toy Story 2;1999;190;193
+V for Vendetta;2006;132;142
+M;1931;99;55
+Ed Wood;1994;127;166
+It's a Wonderful Life;1946;190;30
+Patton;1970;172;190
+Bonnie and Clyde;1967;112;187
+Nights of Cabiria;1957;190;163
+Toy Story;1995;190;117
+The General;1926;190;104
+High Noon;1952;85;101
+American Beauty;1999;122;40
+Princess Mononoke;1997;134;91
+Amelie;2001;129;46
+Yojimbo;1961;75;109
+Amadeus;1984;190;73
+The Pianist;2002;190;52
+Paths of Glory;1957;87;51
+The Shining;1980;190;48
+Saving Private Ryan;1998;169;44
+Manhattan;1979;96;195
+Witness for the Prosecution;1957;111;118
+Snatch.;2000;102;103
+North by Northwest;1959;131;36
+Kind Hearts and Coronets;1949;106;156
+A Clockwork Orange;1971;136;49
+The Diving Bell and the Butterfly;2007;112;167
+The Gold Rush;1925;190;146
+Inception;2010;148;4
+Seven Samurai;1954;190;13
+Children of Men;2006;109;161
+The Secret in Their Eyes;2009;129;136
+Die Hard;1988;131;82
+Harvey;1950;104;168
+Lawrence of Arabia;1962;190;45
+Apocalypse Now;1979;190;38
+Monsters,Inc.;2001;92;201
+Hotel Rwanda;2004;121;87
+Sunset Blvd.;1950;190;32
+The Silence of the Lambs;1991;118;26
+Citizen Kane;1941;119;37
+The Professional;1994;190;34
+Changeling;2008;141;211
+Ikiru;1952;190;186
+Lock, Stock and Two Smoking Barrels;1998;190;140
+The Lord of the Rings : The Two Towers;2002;190;31
+The Big Lebowski;1998;117;106
+The Sixth Sense;1999;107;99
+Butch Cassidy and the Sundance Kid;1969;110;122
+Notorious;1946;101;105
+Full Metal Jacket;1987;116;72
+Roman Holiday;1953;190;200
+The Grapes of Wrath;1940;190;144
+The Dark Knight;2008;152;11
+Anatomy of a Murder;1959;160;198
+Rosemary's Baby;1968;136;165
+For a Few Dollars More;1965;132;92
