@@ -1,0 +1,25 @@
+QUESTION 1)
+
+VUE:
+- city_list.jsp
+- planeticket_detail.jsp
+
+MODELE
+- City.java
+- Dest.java
+- PlaneTicket.java
+- PlaneTicketDB.java
+
+
+CONTRÔLEUR
+- CityListServlet.java
+- PlaneTicketServlet.java
+
+
+
+QUESTION 2)
+
+Il faudra transformer le fichier index en .jsp pour pouvoir utiliser un .getWriter dans PlaneTicketServlet
+et afficher le message d'erreur lors de la redirection (avec forward)
+
+
